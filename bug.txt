@@ -1,0 +1,7 @@
+1.REZOLVAT Apare un caracter destinat "obiectelor" in punctul 0 0 al randarii deoarece obstx[0] obsty[0] 
+este adevarata la primul pas al functiei randare deoarece i si j sunt 0.
+
+2. Daca jucatorul rezista foarte mult, este o sansa ca delay-ul sa fie foarte mare la verificarea pozitiei si "sarpele"
+sa treaca prin pereti
+
+3. Daca apesi click in interiorul ferestrei de opengl o sa spameze cate 4 zero uri.
