@@ -12,6 +12,7 @@ int main(int argc, char** argv) {
 	system("cls");
 	pre_randare();
 	sleep(1);
+	
 
 	speed = 60;
 
